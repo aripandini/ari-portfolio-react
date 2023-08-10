@@ -1,0 +1,11 @@
+:root {
+  --primary: #123e46;
+  --secondary: white;
+  --highlights: #348143;
+}
+/* Removing Default Styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

@@ -1,8 +1,7 @@
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
+import './tailwind.output.css';
 import './css/index.css'
-// add style library 
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <App />
-)
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);

@@ -1,7 +1,9 @@
-import Home from './components/Home.jsx';
+import HomeContainer from './components/HomeContainer.jsx';
 
 function App() {
-  return ( <Home /> );
-};
-
-export default App;
+    return (
+      <HomeContainer />
+    );
+  }
+    
+  export default App;
